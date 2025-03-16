@@ -8,7 +8,7 @@
 <img align="right" alt="Coding" width="400" src="https://github.com/serhiiherman/serhiiherman/blob/main/coding.gif?raw=true">
 
 <p align="left"> 
-<img src="https://komarev.com/ghpvc/?username=swapnilwakchaure&label=Profile%20views&color=0e75b6&style=flat" alt="swapnilwakchaure" /> 
+<img src="https://komarev.com/ghpvc/?username=serhiiherman&label=Profile%20views&color=0e75b6&style=flat" alt="serhiiherman" /> 
 </p>
 
 <p>
